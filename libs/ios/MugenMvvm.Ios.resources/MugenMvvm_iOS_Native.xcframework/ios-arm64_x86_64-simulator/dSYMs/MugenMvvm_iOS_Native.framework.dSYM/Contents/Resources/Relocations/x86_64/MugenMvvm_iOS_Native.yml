@@ -1,0 +1,123 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/owl/Library/Developer/Xcode/DerivedData/MugenMvvm.iOS.Native-fnnhkqblzijspaexamfoxxostfff/Build/Intermediates.noindex/ArchiveIntermediates/MugenMvvm.iOS.Native/InstallationBuildProductsLocation/Library/Frameworks/MugenMvvm_iOS_Native.framework/MugenMvvm_iOS_Native'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x54D02, size: 0x8, addend: 0x0, symName: _MugenMvvm_iOS_NativeVersionString, symObjAddr: 0x0, symBinAddr: 0x8320, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x54D37, size: 0x8, addend: 0x0, symName: _MugenMvvm_iOS_NativeVersionNumber, symObjAddr: 0x48, symBinAddr: 0x8368, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x54D74, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x4001, symSize: 0x63 }
+  - { offsetInCU: 0x35, offset: 0x54D82, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x4001, symSize: 0x63 }
+  - { offsetInCU: 0x5F, offset: 0x54DAC, size: 0x8, addend: 0x0, symName: _sharedInstance._sharedInstance, symObjAddr: 0xA9A8, symBinAddr: 0x12990, symSize: 0x0 }
+  - { offsetInCU: 0x75, offset: 0x54DC2, size: 0x8, addend: 0x0, symName: _sharedInstance.onceToken, symObjAddr: 0xA9B0, symBinAddr: 0x12998, symSize: 0x0 }
+  - { offsetInCU: 0x129, offset: 0x54E76, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils indexArray]', symObjAddr: 0x1C4C, symBinAddr: 0x5C4D, symSize: 0x3D }
+  - { offsetInCU: 0x155, offset: 0x54EA2, size: 0x8, addend: 0x0, symName: _indexArray.theArray, symObjAddr: 0xA9C8, symBinAddr: 0x129B0, symSize: 0x0 }
+  - { offsetInCU: 0x191, offset: 0x54EDE, size: 0x8, addend: 0x0, symName: __host, symObjAddr: 0xA9B8, symBinAddr: 0x129A0, symSize: 0x0 }
+  - { offsetInCU: 0x1AC, offset: 0x54EF9, size: 0x8, addend: 0x0, symName: _attachedValuesKey, symObjAddr: 0xA9C0, symBinAddr: 0x129A8, symSize: 0x0 }
+  - { offsetInCU: 0x268, offset: 0x54FB5, size: 0x8, addend: 0x0, symName: '___34+[MugenNativeUtils sharedInstance]_block_invoke', symObjAddr: 0x63, symBinAddr: 0x4064, symSize: 0x22 }
+  - { offsetInCU: 0x2B3, offset: 0x55000, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils shouldPopItem:navigationBar:]', symObjAddr: 0x85, symBinAddr: 0x4086, symSize: 0xA8 }
+  - { offsetInCU: 0x38F, offset: 0x550DC, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils addWeakObserver:target:path:]', symObjAddr: 0x12D, symBinAddr: 0x412E, symSize: 0xC7 }
+  - { offsetInCU: 0x518, offset: 0x55265, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils initializeHost:]', symObjAddr: 0x1F4, symBinAddr: 0x41F5, symSize: 0x11B }
+  - { offsetInCU: 0x643, offset: 0x55390, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils tryGetAttachedValues:]', symObjAddr: 0x30F, symBinAddr: 0x4310, symSize: 0x30 }
+  - { offsetInCU: 0x6AC, offset: 0x553F9, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils setAttachedValues:values:]', symObjAddr: 0x33F, symBinAddr: 0x4340, symSize: 0x26 }
+  - { offsetInCU: 0x710, offset: 0x5545D, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils getControllersCount:]', symObjAddr: 0x365, symBinAddr: 0x4366, symSize: 0x47 }
+  - { offsetInCU: 0x77F, offset: 0x554CC, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils getLastController:]', symObjAddr: 0x3AC, symBinAddr: 0x43AD, symSize: 0x53 }
+  - { offsetInCU: 0x7EE, offset: 0x5553B, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils bringToFront:controller:animate:]', symObjAddr: 0x3FF, symBinAddr: 0x4400, symSize: 0x15E }
+  - { offsetInCU: 0x9B3, offset: 0x55700, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils indexOfController:controller:]', symObjAddr: 0x55D, symBinAddr: 0x455E, symSize: 0x83 }
+  - { offsetInCU: 0xA73, offset: 0x557C0, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils removeControllerAt:index:animate:]', symObjAddr: 0x5E0, symBinAddr: 0x45E1, symSize: 0xB2 }
+  - { offsetInCU: 0xB94, offset: 0x558E1, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils visitViews:visitor:includeRoot:recursively:]', symObjAddr: 0x692, symBinAddr: 0x4693, symSize: 0x20C }
+  - { offsetInCU: 0xD10, offset: 0x55A5D, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils batchUpdate:buffer:removes:inserts:moves:withSections:animate:]', symObjAddr: 0x89E, symBinAddr: 0x489F, symSize: 0x5AB }
+  - { offsetInCU: 0x11D4, offset: 0x55F21, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils onInserted:index:section:animate:]', symObjAddr: 0xE49, symBinAddr: 0x4E4A, symSize: 0x13D }
+  - { offsetInCU: 0x133F, offset: 0x5608C, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils onRemoved:index:section:animate:]', symObjAddr: 0xF86, symBinAddr: 0x4F87, symSize: 0x13D }
+  - { offsetInCU: 0x14AA, offset: 0x561F7, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils onMoved:from:to:section:animate:]', symObjAddr: 0x10C3, symBinAddr: 0x50C4, symSize: 0x120 }
+  - { offsetInCU: 0x15F2, offset: 0x5633F, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils onChanged:index:section:animate:]', symObjAddr: 0x11E3, symBinAddr: 0x51E4, symSize: 0x13D }
+  - { offsetInCU: 0x175D, offset: 0x564AA, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils batchUpdateTable:buffer:removes:inserts:moves:withSections:deleteAnimation:insertAnimation:]', symObjAddr: 0x1320, symBinAddr: 0x5321, symSize: 0x580 }
+  - { offsetInCU: 0x1C0F, offset: 0x5695C, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils onInsertedTable:index:section:animation:]', symObjAddr: 0x18A0, symBinAddr: 0x58A1, symSize: 0xF1 }
+  - { offsetInCU: 0x1D35, offset: 0x56A82, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils onRemovedTable:index:section:animation:]', symObjAddr: 0x1991, symBinAddr: 0x5992, symSize: 0xF1 }
+  - { offsetInCU: 0x1E60, offset: 0x56BAD, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils onMovedTable:from:to:section:]', symObjAddr: 0x1A82, symBinAddr: 0x5A83, symSize: 0xC0 }
+  - { offsetInCU: 0x1F4F, offset: 0x56C9C, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils onChangedTable:index:section:animation:]', symObjAddr: 0x1B42, symBinAddr: 0x5B43, symSize: 0xF1 }
+  - { offsetInCU: 0x207A, offset: 0x56DC7, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils raiseLoadMore:]', symObjAddr: 0x1C33, symBinAddr: 0x5C34, symSize: 0x19 }
+  - { offsetInCU: 0x20CE, offset: 0x56E1B, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils getArrangedViewByIndex:index:]', symObjAddr: 0x1C89, symBinAddr: 0x5C8A, symSize: 0x61 }
+  - { offsetInCU: 0x2150, offset: 0x56E9D, size: 0x8, addend: 0x0, symName: '+[MugenNativeUtils clearArrangedSubviews:]', symObjAddr: 0x1CEA, symBinAddr: 0x5CEB, symSize: 0x12E }
+  - { offsetInCU: 0x221C, offset: 0x56F69, size: 0x8, addend: 0x0, symName: '-[MugenNativeUtils onTextChanged:]', symObjAddr: 0x1E18, symBinAddr: 0x5E19, symSize: 0x53 }
+  - { offsetInCU: 0x27, offset: 0x57139, size: 0x8, addend: 0x0, symName: '-[NativeCollectionViewSource initWithSource:]', symObjAddr: 0x0, symBinAddr: 0x5E6C, symSize: 0x68 }
+  - { offsetInCU: 0xA0, offset: 0x571B2, size: 0x8, addend: 0x0, symName: '-[NativeCollectionViewSource initWithSource:]', symObjAddr: 0x0, symBinAddr: 0x5E6C, symSize: 0x68 }
+  - { offsetInCU: 0x12B, offset: 0x5723D, size: 0x8, addend: 0x0, symName: '-[NativeCollectionViewSource numberOfSectionsInCollectionView:]', symObjAddr: 0x68, symBinAddr: 0x5ED4, symSize: 0x99 }
+  - { offsetInCU: 0x1C2, offset: 0x572D4, size: 0x8, addend: 0x0, symName: '-[NativeCollectionViewSource collectionView:numberOfItemsInSection:]', symObjAddr: 0x101, symBinAddr: 0x5F6D, symSize: 0x53 }
+  - { offsetInCU: 0x249, offset: 0x5735B, size: 0x8, addend: 0x0, symName: '-[NativeCollectionViewSource collectionView:cellForItemAtIndexPath:]', symObjAddr: 0x154, symBinAddr: 0x5FC0, symSize: 0x186 }
+  - { offsetInCU: 0x443, offset: 0x57555, size: 0x8, addend: 0x0, symName: '-[NativeCollectionViewSource collectionView:didEndDisplayingCell:forItemAtIndexPath:]', symObjAddr: 0x2DA, symBinAddr: 0x6146, symSize: 0x154 }
+  - { offsetInCU: 0x5F5, offset: 0x57707, size: 0x8, addend: 0x0, symName: '-[NativeCollectionViewSource collectionView:willDisplayCell:forItemAtIndexPath:]', symObjAddr: 0x42E, symBinAddr: 0x629A, symSize: 0x1EA }
+  - { offsetInCU: 0x840, offset: 0x57952, size: 0x8, addend: 0x0, symName: '-[NativeCollectionViewSource source]', symObjAddr: 0x618, symBinAddr: 0x6484, symSize: 0x16 }
+  - { offsetInCU: 0x877, offset: 0x57989, size: 0x8, addend: 0x0, symName: '-[NativeCollectionViewSource setSource:]', symObjAddr: 0x62E, symBinAddr: 0x649A, symSize: 0x11 }
+  - { offsetInCU: 0x8B6, offset: 0x579C8, size: 0x8, addend: 0x0, symName: '-[NativeCollectionViewSource .cxx_destruct]', symObjAddr: 0x63F, symBinAddr: 0x64AB, symSize: 0xE }
+  - { offsetInCU: 0x27, offset: 0x57A5C, size: 0x8, addend: 0x0, symName: '-[NativeWeakReference initWithTarget:]', symObjAddr: 0x0, symBinAddr: 0x64B9, symSize: 0x68 }
+  - { offsetInCU: 0x41, offset: 0x57A76, size: 0x8, addend: 0x0, symName: _refKey, symObjAddr: 0x24D6, symBinAddr: 0x129B8, symSize: 0x0 }
+  - { offsetInCU: 0xA5, offset: 0x57ADA, size: 0x8, addend: 0x0, symName: '-[NativeWeakReference initWithTarget:]', symObjAddr: 0x0, symBinAddr: 0x64B9, symSize: 0x68 }
+  - { offsetInCU: 0x130, offset: 0x57B65, size: 0x8, addend: 0x0, symName: '+[NativeWeakReference get:]', symObjAddr: 0x68, symBinAddr: 0x6521, symSize: 0x88 }
+  - { offsetInCU: 0x253, offset: 0x57C88, size: 0x8, addend: 0x0, symName: '+[NativeWeakReference getOptional:]', symObjAddr: 0xF0, symBinAddr: 0x65A9, symSize: 0x14 }
+  - { offsetInCU: 0x2AB, offset: 0x57CE0, size: 0x8, addend: 0x0, symName: '+[NativeWeakReference clear:]', symObjAddr: 0x104, symBinAddr: 0x65BD, symSize: 0x50 }
+  - { offsetInCU: 0x336, offset: 0x57D6B, size: 0x8, addend: 0x0, symName: '-[NativeWeakReference isAlive]', symObjAddr: 0x154, symBinAddr: 0x660D, symSize: 0x33 }
+  - { offsetInCU: 0x385, offset: 0x57DBA, size: 0x8, addend: 0x0, symName: '-[NativeWeakReference tryGetAttachedValues]', symObjAddr: 0x187, symBinAddr: 0x6640, symSize: 0x63 }
+  - { offsetInCU: 0x3E8, offset: 0x57E1D, size: 0x8, addend: 0x0, symName: '-[NativeWeakReference setAttachedValues:]', symObjAddr: 0x1EA, symBinAddr: 0x66A3, symSize: 0x7C }
+  - { offsetInCU: 0x48F, offset: 0x57EC4, size: 0x8, addend: 0x0, symName: '-[NativeWeakReference target]', symObjAddr: 0x266, symBinAddr: 0x671F, symSize: 0x16 }
+  - { offsetInCU: 0x4C6, offset: 0x57EFB, size: 0x8, addend: 0x0, symName: '-[NativeWeakReference setTarget:]', symObjAddr: 0x27C, symBinAddr: 0x6735, symSize: 0x11 }
+  - { offsetInCU: 0x505, offset: 0x57F3A, size: 0x8, addend: 0x0, symName: '-[NativeWeakReference .cxx_destruct]', symObjAddr: 0x28D, symBinAddr: 0x6746, symSize: 0xE }
+  - { offsetInCU: 0x27, offset: 0x57FC6, size: 0x8, addend: 0x0, symName: '-[NativeCollectionViewAdapter initWithCollectionView:]', symObjAddr: 0x0, symBinAddr: 0x6754, symSize: 0x82 }
+  - { offsetInCU: 0xC4, offset: 0x58063, size: 0x8, addend: 0x0, symName: '-[NativeCollectionViewAdapter initWithCollectionView:]', symObjAddr: 0x0, symBinAddr: 0x6754, symSize: 0x82 }
+  - { offsetInCU: 0x169, offset: 0x58108, size: 0x8, addend: 0x0, symName: '-[NativeCollectionViewAdapter isAlive]', symObjAddr: 0x82, symBinAddr: 0x67D6, symSize: 0x33 }
+  - { offsetInCU: 0x1B8, offset: 0x58157, size: 0x8, addend: 0x0, symName: '-[NativeCollectionViewAdapter collectionView]', symObjAddr: 0xB5, symBinAddr: 0x6809, symSize: 0x94 }
+  - { offsetInCU: 0x25F, offset: 0x581FE, size: 0x8, addend: 0x0, symName: '-[NativeCollectionViewAdapter reload:]', symObjAddr: 0x149, symBinAddr: 0x689D, symSize: 0xE2 }
+  - { offsetInCU: 0x3F7, offset: 0x58396, size: 0x8, addend: 0x0, symName: '___38-[NativeCollectionViewAdapter reload:]_block_invoke', symObjAddr: 0x22B, symBinAddr: 0x697F, symSize: 0x62 }
+  - { offsetInCU: 0x486, offset: 0x58425, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40b, symObjAddr: 0x28D, symBinAddr: 0x69E1, symSize: 0x30 }
+  - { offsetInCU: 0x4BB, offset: 0x5845A, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s, symObjAddr: 0x2BD, symBinAddr: 0x6A11, symSize: 0x25 }
+  - { offsetInCU: 0x4F2, offset: 0x58491, size: 0x8, addend: 0x0, symName: '-[NativeCollectionViewAdapter performBatchUpdates:completion:]', symObjAddr: 0x2E2, symBinAddr: 0x6A36, symSize: 0x9A }
+  - { offsetInCU: 0x5FE, offset: 0x5859D, size: 0x8, addend: 0x0, symName: '-[NativeCollectionViewAdapter batchUpdate:removes:inserts:moves:withSections:]', symObjAddr: 0x37C, symBinAddr: 0x6AD0, symSize: 0x9F }
+  - { offsetInCU: 0x6E7, offset: 0x58686, size: 0x8, addend: 0x0, symName: '-[NativeCollectionViewAdapter onInserted:section:]', symObjAddr: 0x41B, symBinAddr: 0x6B6F, symSize: 0x76 }
+  - { offsetInCU: 0x799, offset: 0x58738, size: 0x8, addend: 0x0, symName: '-[NativeCollectionViewAdapter onRemoved:section:]', symObjAddr: 0x491, symBinAddr: 0x6BE5, symSize: 0x76 }
+  - { offsetInCU: 0x84B, offset: 0x587EA, size: 0x8, addend: 0x0, symName: '-[NativeCollectionViewAdapter onMoved:to:section:]', symObjAddr: 0x507, symBinAddr: 0x6C5B, symSize: 0x86 }
+  - { offsetInCU: 0x916, offset: 0x588B5, size: 0x8, addend: 0x0, symName: '-[NativeCollectionViewAdapter onChanged:section:]', symObjAddr: 0x58D, symBinAddr: 0x6CE1, symSize: 0x76 }
+  - { offsetInCU: 0x9C8, offset: 0x58967, size: 0x8, addend: 0x0, symName: '-[NativeCollectionViewAdapter setCollectionView:]', symObjAddr: 0x603, symBinAddr: 0x6D57, symSize: 0x11 }
+  - { offsetInCU: 0xA07, offset: 0x589A6, size: 0x8, addend: 0x0, symName: '-[NativeCollectionViewAdapter animate]', symObjAddr: 0x614, symBinAddr: 0x6D68, symSize: 0x9 }
+  - { offsetInCU: 0xA3C, offset: 0x589DB, size: 0x8, addend: 0x0, symName: '-[NativeCollectionViewAdapter setAnimate:]', symObjAddr: 0x61D, symBinAddr: 0x6D71, symSize: 0x9 }
+  - { offsetInCU: 0xA79, offset: 0x58A18, size: 0x8, addend: 0x0, symName: '-[NativeCollectionViewAdapter .cxx_destruct]', symObjAddr: 0x626, symBinAddr: 0x6D7A, symSize: 0xE }
+  - { offsetInCU: 0x27, offset: 0x58B85, size: 0x8, addend: 0x0, symName: '-[NativeTableViewAdapter initWithTableView:]', symObjAddr: 0x0, symBinAddr: 0x6D88, symSize: 0xA6 }
+  - { offsetInCU: 0xDD, offset: 0x58C3B, size: 0x8, addend: 0x0, symName: '-[NativeTableViewAdapter initWithTableView:]', symObjAddr: 0x0, symBinAddr: 0x6D88, symSize: 0xA6 }
+  - { offsetInCU: 0x1B9, offset: 0x58D17, size: 0x8, addend: 0x0, symName: '-[NativeTableViewAdapter isAlive]', symObjAddr: 0xA6, symBinAddr: 0x6E2E, symSize: 0x33 }
+  - { offsetInCU: 0x208, offset: 0x58D66, size: 0x8, addend: 0x0, symName: '-[NativeTableViewAdapter tableView]', symObjAddr: 0xD9, symBinAddr: 0x6E61, symSize: 0x94 }
+  - { offsetInCU: 0x2AF, offset: 0x58E0D, size: 0x8, addend: 0x0, symName: '-[NativeTableViewAdapter reload:]', symObjAddr: 0x16D, symBinAddr: 0x6EF5, symSize: 0xE2 }
+  - { offsetInCU: 0x447, offset: 0x58FA5, size: 0x8, addend: 0x0, symName: '___33-[NativeTableViewAdapter reload:]_block_invoke', symObjAddr: 0x24F, symBinAddr: 0x6FD7, symSize: 0x27 }
+  - { offsetInCU: 0x4AA, offset: 0x59008, size: 0x8, addend: 0x0, symName: '-[NativeTableViewAdapter performBatchUpdates:completion:]', symObjAddr: 0x2CB, symBinAddr: 0x6FFE, symSize: 0x9A }
+  - { offsetInCU: 0x5B6, offset: 0x59114, size: 0x8, addend: 0x0, symName: '-[NativeTableViewAdapter batchUpdate:removes:inserts:moves:withSections:]', symObjAddr: 0x365, symBinAddr: 0x7098, symSize: 0xAD }
+  - { offsetInCU: 0x6B3, offset: 0x59211, size: 0x8, addend: 0x0, symName: '-[NativeTableViewAdapter onInserted:section:]', symObjAddr: 0x412, symBinAddr: 0x7145, symSize: 0x75 }
+  - { offsetInCU: 0x765, offset: 0x592C3, size: 0x8, addend: 0x0, symName: '-[NativeTableViewAdapter onRemoved:section:]', symObjAddr: 0x487, symBinAddr: 0x71BA, symSize: 0x75 }
+  - { offsetInCU: 0x817, offset: 0x59375, size: 0x8, addend: 0x0, symName: '-[NativeTableViewAdapter onMoved:to:section:]', symObjAddr: 0x4FC, symBinAddr: 0x722F, symSize: 0x6D }
+  - { offsetInCU: 0x8C3, offset: 0x59421, size: 0x8, addend: 0x0, symName: '-[NativeTableViewAdapter onChanged:section:]', symObjAddr: 0x569, symBinAddr: 0x729C, symSize: 0x75 }
+  - { offsetInCU: 0x975, offset: 0x594D3, size: 0x8, addend: 0x0, symName: '-[NativeTableViewAdapter setTableView:]', symObjAddr: 0x5DE, symBinAddr: 0x7311, symSize: 0x11 }
+  - { offsetInCU: 0x9B4, offset: 0x59512, size: 0x8, addend: 0x0, symName: '-[NativeTableViewAdapter insertRowsAnimation]', symObjAddr: 0x5EF, symBinAddr: 0x7322, symSize: 0xA }
+  - { offsetInCU: 0x9E9, offset: 0x59547, size: 0x8, addend: 0x0, symName: '-[NativeTableViewAdapter setInsertRowsAnimation:]', symObjAddr: 0x5F9, symBinAddr: 0x732C, symSize: 0xA }
+  - { offsetInCU: 0xA26, offset: 0x59584, size: 0x8, addend: 0x0, symName: '-[NativeTableViewAdapter deleteRowsAnimation]', symObjAddr: 0x603, symBinAddr: 0x7336, symSize: 0xA }
+  - { offsetInCU: 0xA5B, offset: 0x595B9, size: 0x8, addend: 0x0, symName: '-[NativeTableViewAdapter setDeleteRowsAnimation:]', symObjAddr: 0x60D, symBinAddr: 0x7340, symSize: 0xA }
+  - { offsetInCU: 0xA98, offset: 0x595F6, size: 0x8, addend: 0x0, symName: '-[NativeTableViewAdapter reloadRowsAnimation]', symObjAddr: 0x617, symBinAddr: 0x734A, symSize: 0xA }
+  - { offsetInCU: 0xACD, offset: 0x5962B, size: 0x8, addend: 0x0, symName: '-[NativeTableViewAdapter setReloadRowsAnimation:]', symObjAddr: 0x621, symBinAddr: 0x7354, symSize: 0xA }
+  - { offsetInCU: 0xB0A, offset: 0x59668, size: 0x8, addend: 0x0, symName: '-[NativeTableViewAdapter .cxx_destruct]', symObjAddr: 0x62B, symBinAddr: 0x735E, symSize: 0xE }
+  - { offsetInCU: 0x27, offset: 0x597DC, size: 0x8, addend: 0x0, symName: '-[NativeTableViewSource initWithSource:]', symObjAddr: 0x0, symBinAddr: 0x736C, symSize: 0x68 }
+  - { offsetInCU: 0x88, offset: 0x5983D, size: 0x8, addend: 0x0, symName: '-[NativeTableViewSource initWithSource:]', symObjAddr: 0x0, symBinAddr: 0x736C, symSize: 0x68 }
+  - { offsetInCU: 0x113, offset: 0x598C8, size: 0x8, addend: 0x0, symName: '-[NativeTableViewSource numberOfSectionsInTableView:]', symObjAddr: 0x68, symBinAddr: 0x73D4, symSize: 0x99 }
+  - { offsetInCU: 0x1AA, offset: 0x5995F, size: 0x8, addend: 0x0, symName: '-[NativeTableViewSource tableView:numberOfRowsInSection:]', symObjAddr: 0x101, symBinAddr: 0x746D, symSize: 0x53 }
+  - { offsetInCU: 0x231, offset: 0x599E6, size: 0x8, addend: 0x0, symName: '-[NativeTableViewSource tableView:cellForRowAtIndexPath:]', symObjAddr: 0x154, symBinAddr: 0x74C0, symSize: 0x186 }
+  - { offsetInCU: 0x42B, offset: 0x59BE0, size: 0x8, addend: 0x0, symName: '-[NativeTableViewSource tableView:willDisplayCell:forRowAtIndexPath:]', symObjAddr: 0x2DA, symBinAddr: 0x7646, symSize: 0x1EA }
+  - { offsetInCU: 0x676, offset: 0x59E2B, size: 0x8, addend: 0x0, symName: '-[NativeTableViewSource tableView:didEndDisplayingCell:forRowAtIndexPath:]', symObjAddr: 0x4C4, symBinAddr: 0x7830, symSize: 0x154 }
+  - { offsetInCU: 0x828, offset: 0x59FDD, size: 0x8, addend: 0x0, symName: '-[NativeTableViewSource source]', symObjAddr: 0x618, symBinAddr: 0x7984, symSize: 0x16 }
+  - { offsetInCU: 0x85F, offset: 0x5A014, size: 0x8, addend: 0x0, symName: '-[NativeTableViewSource setSource:]', symObjAddr: 0x62E, symBinAddr: 0x799A, symSize: 0x11 }
+  - { offsetInCU: 0x89E, offset: 0x5A053, size: 0x8, addend: 0x0, symName: '-[NativeTableViewSource .cxx_destruct]', symObjAddr: 0x63F, symBinAddr: 0x79AB, symSize: 0xE }
+  - { offsetInCU: 0x27, offset: 0x5A0E7, size: 0x8, addend: 0x0, symName: '-[KvoWeakObserver initWithSource:target:path:]', symObjAddr: 0x0, symBinAddr: 0x79B9, symSize: 0xC9 }
+  - { offsetInCU: 0xCE, offset: 0x5A18E, size: 0x8, addend: 0x0, symName: '-[KvoWeakObserver initWithSource:target:path:]', symObjAddr: 0x0, symBinAddr: 0x79B9, symSize: 0xC9 }
+  - { offsetInCU: 0x1CE, offset: 0x5A28E, size: 0x8, addend: 0x0, symName: '-[KvoWeakObserver observeValueForKeyPath:ofObject:change:context:]', symObjAddr: 0xC9, symBinAddr: 0x7A82, symSize: 0x10C }
+  - { offsetInCU: 0x31A, offset: 0x5A3DA, size: 0x8, addend: 0x0, symName: '-[KvoWeakObserver clear]', symObjAddr: 0x1D5, symBinAddr: 0x7B8E, symSize: 0x86 }
+  - { offsetInCU: 0x3CE, offset: 0x5A48E, size: 0x8, addend: 0x0, symName: '-[KvoWeakObserver dealloc]', symObjAddr: 0x25B, symBinAddr: 0x7C14, symSize: 0x3E }
+  - { offsetInCU: 0x416, offset: 0x5A4D6, size: 0x8, addend: 0x0, symName: '-[KvoWeakObserver source]', symObjAddr: 0x299, symBinAddr: 0x7C52, symSize: 0x16 }
+  - { offsetInCU: 0x44D, offset: 0x5A50D, size: 0x8, addend: 0x0, symName: '-[KvoWeakObserver setSource:]', symObjAddr: 0x2AF, symBinAddr: 0x7C68, symSize: 0x11 }
+  - { offsetInCU: 0x48C, offset: 0x5A54C, size: 0x8, addend: 0x0, symName: '-[KvoWeakObserver target]', symObjAddr: 0x2C0, symBinAddr: 0x7C79, symSize: 0x16 }
+  - { offsetInCU: 0x4C3, offset: 0x5A583, size: 0x8, addend: 0x0, symName: '-[KvoWeakObserver setTarget:]', symObjAddr: 0x2D6, symBinAddr: 0x7C8F, symSize: 0x11 }
+  - { offsetInCU: 0x502, offset: 0x5A5C2, size: 0x8, addend: 0x0, symName: '-[KvoWeakObserver path]', symObjAddr: 0x2E7, symBinAddr: 0x7CA0, symSize: 0xA }
+  - { offsetInCU: 0x537, offset: 0x5A5F7, size: 0x8, addend: 0x0, symName: '-[KvoWeakObserver setPath:]', symObjAddr: 0x2F1, symBinAddr: 0x7CAA, symSize: 0xF }
+  - { offsetInCU: 0x576, offset: 0x5A636, size: 0x8, addend: 0x0, symName: '-[KvoWeakObserver .cxx_destruct]', symObjAddr: 0x300, symBinAddr: 0x7CB9, symSize: 0x2F }
+...

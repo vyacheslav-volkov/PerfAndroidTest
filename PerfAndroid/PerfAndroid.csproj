@@ -17,16 +17,15 @@
         <AdditionalFiles Include="Resources\**\*.xml"/>
 
         <Reference Include="MugenMvvm">
-            <HintPath>..\libs\MugenMvvm.dll</HintPath>
+            <HintPath>..\libs\android\MugenMvvm.dll</HintPath>
         </Reference>
         <Reference Include="MugenMvvm.Android">
-            <HintPath>..\libs\MugenMvvm.Android.dll</HintPath>
+            <HintPath>..\libs\android\MugenMvvm.Android.dll</HintPath>
         </Reference>
-        <Analyzer Include="..\libs\MugenMvvm.BindingGenerator.dll" OutputItemType="Analyzer" ReferenceOutputAssembly="false"/>
+        <Analyzer Include="..\libs\android\MugenMvvm.BindingGenerator.dll" OutputItemType="Analyzer" ReferenceOutputAssembly="false"/>
         <Reference Include="MugenMvvm.CompositeUI">
-            <HintPath>..\libs\MugenMvvm.CompositeUI.dll</HintPath>
+            <HintPath>..\libs\android\MugenMvvm.CompositeUI.dll</HintPath>
         </Reference>
-        <Analyzer Include="..\libs\MugenMvvm.SourceGenerator.dll" OutputItemType="Analyzer" ReferenceOutputAssembly="false"/>
     </ItemGroup>
     <ItemGroup>
         <ProjectReference Include="..\PerfCore\PerfCore.csproj"/>

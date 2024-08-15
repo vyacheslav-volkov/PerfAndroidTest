@@ -1,5 +1,4 @@
 using _Microsoft.Android.Resource.Designer;
-using Android.Runtime;
 using AndroidX.RecyclerView.Widget;
 using MugenMvvm.Android.Members;
 using MugenMvvm.Android.Native.Views.Activities;
