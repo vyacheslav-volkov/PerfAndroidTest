@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Reference Include="MugenMvvm">
+            <HintPath>..\libs\MugenMvvm.dll</HintPath>
+        </Reference>
+        <Reference Include="MugenMvvm.CompositeUI">
+            <HintPath>..\libs\MugenMvvm.CompositeUI.dll</HintPath>
+        </Reference>
+    </ItemGroup>
+
+</Project>

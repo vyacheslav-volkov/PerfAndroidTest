@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net8.0-android</TargetFramework>
+        <SupportedOSPlatformVersion>21</SupportedOSPlatformVersion>
+        <OutputType>Exe</OutputType>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <ApplicationId>com.companyname.PerfAndroid</ApplicationId>
+        <ApplicationVersion>1</ApplicationVersion>
+        <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
+
+        <RunAOTCompilation>true</RunAOTCompilation>
+        <AndroidEnableProfiledAot>false</AndroidEnableProfiledAot>
+        <PublishTrimmed>true</PublishTrimmed>
+    </PropertyGroup>
+    <ItemGroup>
+        <AdditionalFiles Include="Resources\**\*.xml"/>
+
+        <Reference Include="MugenMvvm">
+            <HintPath>..\libs\MugenMvvm.dll</HintPath>
+        </Reference>
+        <Reference Include="MugenMvvm.Android">
+            <HintPath>..\libs\MugenMvvm.Android.dll</HintPath>
+        </Reference>
+        <Analyzer Include="..\libs\MugenMvvm.BindingGenerator.dll" OutputItemType="Analyzer" ReferenceOutputAssembly="false"/>
+        <Reference Include="MugenMvvm.CompositeUI">
+            <HintPath>..\libs\MugenMvvm.CompositeUI.dll</HintPath>
+        </Reference>
+        <Analyzer Include="..\libs\MugenMvvm.SourceGenerator.dll" OutputItemType="Analyzer" ReferenceOutputAssembly="false"/>
+    </ItemGroup>
+    <ItemGroup>
+        <ProjectReference Include="..\PerfCore\PerfCore.csproj"/>
+        <PackageReference Include="Xamarin.AndroidX.RecyclerView" Version="1.3.2.6"/>
+    </ItemGroup>
+</Project>
